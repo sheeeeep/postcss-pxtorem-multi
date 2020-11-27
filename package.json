@@ -1,12 +1,12 @@
 {
-  "name": "postcss-pxtorem-multi",
+  "name": "postcss-pxtorem-multi-value",
   "description": "A CSS post-processor that converts px to rem.",
   "version": "0.0.1",
   "author": "",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/sheeeeep/postcss-pxtorem-multi-value"
   },
   "bugs": "",
   "main": "index.js",
